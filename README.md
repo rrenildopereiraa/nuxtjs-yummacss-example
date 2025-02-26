@@ -7,7 +7,7 @@
 <h3 align="center">Yumma CSS 🤝 Nuxt.js</h3>
 
 <p align="center">
-  Learn how to integrate Yumma CSS with Astro.
+  Learn how to integrate Yumma CSS with Nuxt.js
   <br>
   <a href="https://yummacss.com"><strong>Read the documentation ↝</strong></a>
 
