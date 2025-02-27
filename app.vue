@@ -1,5 +1,3 @@
 <template>
-  <div class="h-1/1 ins">
-    <h1 class="fs-xxl fw-500 tc-pink">Yumma CSS + Nuxt.js</h1>
-  </div>
+  <h1 class="fs-sm fw-700 ta-c tc-indigo">Yumma CSS 🤝 Nuxt.js</h1>
 </template>
